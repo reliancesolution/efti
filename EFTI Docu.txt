@@ -1,0 +1,27 @@
+
+////////////////////////////////
+//Programmed By: Danico Balane//
+///////Date: July 2, 2017///////
+////////////////////////////////
+
+1. Check PO
+   - if not exist Create new invoice (new Invoice Number).
+   - if exist Show all invoice.
+	- Crud of invoice	
+
+
+2. Create invoice
+   A. Invoice has
+	1.Invoice No
+	2.PO No.
+	3.Date
+	4.Site Code
+	5.Site
+	6.Nature Of Work
+	7.PO amount
+
+-> Save Invoice to [BillingSummaryTable] 
+-> Save Invoice Number to [tableInvoice]
+
+
+2. 
